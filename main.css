@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.btn {
+  height: 80px;
+  width: 120px;
+  border-radius: 15px;
+  font-size: 30px;
+  color: white;
+}
+
+.container__first {
+  background-color: #157ffb;
+}
+
+.container__second {
+  background-color: #30a64a;
+}
+
+.container__third {
+  background-color: #da3749;
+}
+
+.selection {
+  font-family: monospace;
+  padding: 15px;
+  font-size: 20px;
+}
